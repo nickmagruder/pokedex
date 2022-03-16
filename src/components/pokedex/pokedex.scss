@@ -1,0 +1,12 @@
+.cards-container {
+  position: absolute;
+  display: flex;
+  justify-content: space-between;
+  flex-direction: row;
+  flex-wrap: wrap;
+  border: 2px black solid;
+  position: absolute;
+  left: 50%;
+  transform: translate(-50%);
+  width: 90vw;
+}
